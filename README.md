@@ -26,11 +26,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
-
-
-
-
-# Shashi-Bhushan
-
-
 # Shashi-Bhushan
