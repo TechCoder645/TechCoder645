@@ -25,7 +25,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-   - 📄 Check out my <a href="" target="_blank" >Resume</a>
+   - 📄 Check out my <a href="https://drive.google.com/drive/folders/1mVjpYxpZQiEBsRU9qWSY66J13BOLQDf8?usp=drive_link" target="_blank" >Resume</a>
       
    - 💻 Know more about me <a href="" target="_blank"  >Portfolio</a>
       
