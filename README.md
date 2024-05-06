@@ -39,27 +39,18 @@ product-based company.
   - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
 - 📫 How to reach me *shashi.offical06@gmail.com*
-      
-      
-      <hr />
-      
-      
-      <h2 align="center">📱 Connect with me</h2>
+<hr />
+<h2 align="left">📱 Connect with me</h2>
       <br />
-     <div align="center" >
-      
-     <a href="" target="_blank">
+     <div align="left" >
+     <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
-      
-      <a href="" target="_blank">
+      <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
-      
       <a title="" href="mailto:shashi.offical06@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
-     
-     </div>
-      
-      <hr />
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a
+  </div> 
+<hr />
 ## ⚡ Technologies
 
 ### Programming Language :
@@ -71,14 +62,12 @@ product-based company.
 
 
 ### Technology & Framework :
-
 <!-- ![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Tools:
-
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
