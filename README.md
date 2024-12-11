@@ -18,8 +18,8 @@ product-based company.
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Shashi Bhushan 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
-    
-   ## 🙋‍♂️ About Me
+
+ ## 🙋‍♂️ About Me
       
    - 🔭 I’m currently pursuing Full Stack Web Development
       
@@ -44,24 +44,60 @@ product-based company.
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a
   </div> 
 <hr />
+
 ## ⚡ Technologies
 
-### Programming Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
+### Front-End Technologies
+
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
 
 
-### Technology & Framework :
-<!-- ![ReactJS](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-<a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+---
 
-### Tools:
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+### Frameworks & Libraries
 
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap Badge">  
+<img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white">
+<img alt="ReactJS" src="https://img.shields.io/badge/React%20JS-%2300D8FF.svg?logo=react&logoColor=white">
+<img alt="VueJS" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white"> 
+<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+
+---
+
+### Tools
+
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git Badge"> 
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
+<img alt="Webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black">
+<img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white">  
+<img alt="Parcel" src="https://img.shields.io/badge/Parcel-%23F44A6A.svg?logo=parcel&logoColor=white">
+<img alt="ESLint" src="https://img.shields.io/badge/ESLint-%234B32C3.svg?logo=eslint&logoColor=white">
+
+---
+
+### Back-End Technologies
+
+#### Programming Languages
+
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+#### Databases
+
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
+#### Frameworks
+
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+#### Serverless Platforms
+
+- ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+- ![Google Cloud Functions](https://img.shields.io/badge/-Google%20Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
