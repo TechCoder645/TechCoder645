@@ -4,7 +4,7 @@
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TechCoder645&label=Profile%20views&color=0e75b6&style=flat" alt="TechCoder645" /> </p>
    <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Shashi Bhushan </h1>
-   <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
   
    <br>
    <h3 align="left">An analytical and detail-oriented aspiring
@@ -45,59 +45,89 @@ product-based company.
   </div> 
 <hr />
 
-## ⚡ Technologies
+### ⚡ Technologies
 
-### Front-End Technologies
+---
+
+## Front-End Technologies
+
+#### Structuring and styling web pages
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 Badge">
 
 
----
-
-### Frameworks & Libraries
+#### Frameworks & Libraries
 
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" alt="Bootstrap Badge">  
 <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white">
 <img alt="ReactJS" src="https://img.shields.io/badge/React%20JS-%2300D8FF.svg?logo=react&logoColor=white">
-<img alt="VueJS" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vue.js&logoColor=white"> 
-<img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
 
----
 
-### Tools
+
+#### Tools
 
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git Badge"> 
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 <img alt="Webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black">
 <img alt="Vite" src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=white">  
-<img alt="Parcel" src="https://img.shields.io/badge/Parcel-%23F44A6A.svg?logo=parcel&logoColor=white">
-<img alt="ESLint" src="https://img.shields.io/badge/ESLint-%234B32C3.svg?logo=eslint&logoColor=white">
+
 
 ---
 
-### Back-End Technologies
+## Back-End Technologies
 
 #### Programming Languages
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">   
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">  
 
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 #### Databases
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">  
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">   
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> 
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"> 
 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 
 #### Frameworks
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">   
 
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 #### Serverless Platforms
+<img src="https://img.shields.io/badge/-AWS%20Lambda-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Lambda">   
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud Functions"> 
 
-- ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![Google Cloud Functions](https://img.shields.io/badge/-Google%20Cloud%20Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+---
+
+## APIs and Integrations
+
+#### API Types
+<img src="https://img.shields.io/badge/-REST-00A8E8?style=flat-square&logo=rest&logoColor=white" alt="REST">  
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"> 
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"> 
+
+---
+
+## Other Tools
+
+#### Version Control
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white" alt="Git">  
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">   
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"> 
+
+#### Package Managers
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"> 
+<img src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="yarn">   
+
+
+
+#### Testing Frameworks
+<img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">   
+<img src="https://img.shields.io/badge/-Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" alt="Mocha"> 
+
+
+
+#### Deployment 
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> 
+
+---
