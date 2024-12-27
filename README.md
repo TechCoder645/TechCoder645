@@ -29,7 +29,7 @@ product-based company.
       
    - 💻 Know more about me <a href="" target="_blank"  >Portfolio</a>
       
-  - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
+  - 💬 Ask me about *HTML, CSS, JavaScript, React, ExpressJS, MongoDB & DSA*
       
 - 📫 How to reach me *shashi.offical06@gmail.com*
 <hr />
@@ -63,7 +63,8 @@ product-based company.
 <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white">
 <img alt="ReactJS" src="https://img.shields.io/badge/React%20JS-%2300D8FF.svg?logo=react&logoColor=white">
 
-
+#### Scripting 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 
 #### Tools
 
@@ -129,5 +130,6 @@ product-based company.
 
 #### Deployment 
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> 
+<img src="https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
 
 ---
