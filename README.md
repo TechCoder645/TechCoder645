@@ -21,9 +21,9 @@ product-based company.
 
  ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
+   - 🔭 I’m a fresher aspiring to become a Full Stack Web Developer  
+   
+   - 🌱 I’m currently learning Full Stack Web Development  
       
    - 📄 Check out my <a href="https://drive.google.com/file/d/12d5CLDaGlzdWEFIksXludepPvVXOnuN9/view?usp=drive_link" target="_blank" >Resume</a>
       
